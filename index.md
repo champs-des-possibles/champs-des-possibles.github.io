@@ -1,5 +1,6 @@
 ---
 layout: home
+title: 
 ---
 
 ## Objectifs 🌱
@@ -10,6 +11,7 @@ Le collectif est dédié aux reflexions et actions liés à l'urgence environnem
 ## Links
 
 - [Ressources](ressources)
+
 
 
 
