@@ -50,4 +50,19 @@ font-size:0.9em;
 color:#777;
 }
 
+ost-date{
+  color:#6b4ba3; /* violet for inclusiveness */
+  font-weight:500;
+  margin-right:10px;
+}
+
+a{
+  color:#3a7d6b; /* green for environment */
+  text-decoration:none;
+}
+
+a:hover{
+  text-decoration:underline;
+}
+
 
