@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 
+title: Urgence Environementale, Enseignement Supérieur et Recherche
 ---
 
 ## Objectifs 🌱
@@ -11,6 +11,7 @@ Le collectif est dédié aux reflexions et actions liés à l'urgence environnem
 ## Links
 
 - [Ressources](ressources)
+
 
 
 
