@@ -13,6 +13,14 @@ Le collectif est dédié aux reflexions et actions liés à l'urgence environnem
 - [Ressources](ressources)
 
 
+# Posts
+
+{% for post in site.posts %}
+- {{ post.date | date: "%Y-%m-%d" }}  {{ post.title }}
+{% endfor %}
+
+
+
 
 
 
