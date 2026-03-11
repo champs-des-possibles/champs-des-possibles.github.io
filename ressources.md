@@ -1,4 +1,8 @@
-# Liste de ressources pertinentes
+---
+layout: home
+title: Liste de ressources pertinentes
+---
 
-Charte environementales des laboratoires du site:
+Chartes environementales des laboratoires du site:
 - [LIGM-Imagine](https://imagine-lab.enpc.fr/more/environment/) 
+
