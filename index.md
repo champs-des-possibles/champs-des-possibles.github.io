@@ -38,13 +38,11 @@ Nous discutons également du contenu des recherches et participons à la mise en
 
 ·      Organisation par l’ex-groupe de travail « Ville et Énergie » du Labex Futurs Urbains d’une série de visites de sites sur le campus de la Cité Descartes et dans son environnement immédiat autour des enjeux de la désescalade énergétique et une journée d’étude sur ce thème. Un ouvrage collectif sera publié sur ces thématiques en 2026.
 
-·      Participation de nombreux membres du collectif au numéro spécial de « Transitions » (anciennement Annales des Ponts) coordonné par Bruno Tassin et Nathalie Roseau, intitulé « Au pied du mur ».
+·      Participation de nombreux membres du collectif au [numéro spécial de « Transitions »](https://ecoledesponts.fr/sites/default/files/pages/Biblioth%C3%A8que/%C3%89dition/Transitions-en-debat-2024\_volume-complet\_def.pdf) 
+ (anciennement Annales des Ponts) coordonné par Bruno Tassin et Nathalie Roseau, intitulé « Au pied du mur ».
 
-[https://ecoledesponts.fr/sites/default/files/pages/Biblioth%C3%A8que/%C3%89dition/Transitions-en-debat-2024\_volume-complet\_def.pdf](https://ecoledesponts.fr/sites/default/files/pages/Biblioth%C3%A8que/%C3%89dition/Transitions-en-debat-2024\_volume-complet\_def.pdf) 
 
-·      Le 2 décembre 2025, la projection-débat du film de Violeta Ramirez, Transition sous tension, en présence de la réalisatrice.
-
-Bande annonce : [https://www.youtube.com/watch?v=DIdd9CU5EB8](https://www.youtube.com/watch?v=DIdd9CU5EB8)
+·      Le 2 décembre 2025, la projection-débat du film de Violeta Ramirez, Transition sous tension, en présence de la réalisatrice. [Bande annonce ici](https://www.youtube.com/watch?v=DIdd9CU5EB8)
 
 **(4) Faire évoluer nos pratiques**
 
