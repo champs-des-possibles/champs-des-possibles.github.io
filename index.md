@@ -11,11 +11,11 @@ Créé en avril 2023, le collectif *Champ des possibles* regroupe des doctorant�
 
 Les membres du collectif partagent plusieurs idées majeures :
 
-·      **la volonté de ne pas séparer les problématiques environnementales et écologiques des questions d’inégalités sociales**, à la fois pour des raisons éthiques (les transformations socio-écologiques ne peuvent se faire au bénéfice de certains groupes et au détriment des autres) et pragmatiques (l’absence de prise en compte des inégalités et des enjeux de justice aboutit à de fortes contestations et à un recul des politiques environnementales) ;
+·      **la volonté de ne pas séparer les problématiques environnementales et écologiques des questions d’inégalités sociales**, à la fois pour des raisons éthiques (les transformations socio-écologiques ne peuvent se faire au bénéfice de certains groupes et au détriment des autres) et pragmatiques (l’absence de prise en compte des inégalités et des enjeux de justice aboutit à de fortes contestations et à un recul des politiques environnementales);
 
-·      **la conviction que les actions à mener ne se limitent pas aux solutions techniques ou technologiques** et engagent des changements des pratiques sociales et des modes de vie, entendus au sens de manières d’habiter collectivement les territoires – et non pas en termes d’écogestes ou de comportements individuels ;
+·      **la conviction que les actions à mener ne se limitent pas aux solutions techniques ou technologiques** et engagent des changements des pratiques sociales et des modes de vie, entendus au sens de manières d’habiter collectivement les territoires – et non pas en termes d’écogestes ou de comportements individuels;
 
-·      **la nécessité de reconnaître ladimension politique des transformations socio-écologiques**, c’est-à-dire des questions que ces transformations soulèvent en termes d’(in)égalités, de rapports de pouvoir, de conflits, d’arbitrages collectifs ;
+·      **la nécessité de reconnaître ladimension politique des transformations socio-écologiques**, c’est-à-dire des questions que ces transformations soulèvent en termes d’(in)égalités, de rapports de pouvoir, de conflits, d’arbitrages collectifs;
 
 ·      **le souhait de contribuer à l’éclairage du débat public autour de ces enjeux et d’agir**, à l’échelle du campus et au-delà.
 
