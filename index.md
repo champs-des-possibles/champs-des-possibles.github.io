@@ -58,11 +58,11 @@ Plusieurs actions ont été menées dans ce cadre :
 
 
 
-## Prochain RDVs 📅
+## Prochaines réunions-déjeuners
 
-Pas de rendez-vous encore planifiés!
+- 8 juillet 2026, 12h - 14h. Bâtiment Bienvenüe, salle A421.
 
-## News 🥁
+## Évènements à venir
 
 {% for post in site.posts %}
 - <span class="post-date">{{ post.date | date: "%Y-%m-%d" }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
