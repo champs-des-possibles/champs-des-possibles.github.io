@@ -6,7 +6,7 @@ title: Urgence Environementale et ESR
 Créé en avril 2023, le collectif *Champ des possibles* regroupe des doctorant·es, enseignant·es-chercheur·euses, chercheur·euses qui souhaitaient réfléchir au positionnement de la recherche face aux crises environnementales et agir ensemble, à l’échelle de la Cité Descartes et au-delà.
 
 
-## Objectifs 🌱
+## Objectifs
 
 
 Les membres du collectif partagent plusieurs idées majeures :
@@ -20,7 +20,7 @@ Les membres du collectif partagent plusieurs idées majeures :
 ·      **le souhait de contribuer à l’éclairage du débat public autour de ces enjeux et d’agir**, à l’échelle du campus et au-delà.
 
 
-## Actions💥
+## Actions
 
 Identifiées dès la création du collectif, plusieurs modalités d’action ont donné lieu à des initiatives portées ou soutenues par différentes instances (laboratoires, groupes de travail transversaux, cellules DDRS des établissements, etc.), au-delà du collectif lui-même.
 
