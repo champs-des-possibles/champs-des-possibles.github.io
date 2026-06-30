@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Liste de ressources pertinentes
+title: Évènements à venir
 ---
 # Évènements à venir
 {% for post in site.posts %}
