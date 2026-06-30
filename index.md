@@ -60,7 +60,7 @@ Plusieurs actions ont été menées dans ce cadre :
 
 ## Prochain RDVs 📅
 
-Pas encore planifiés!
+Pas de rendez-vous encore planifiés!
 
 ## News 🥁
 
