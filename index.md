@@ -62,7 +62,7 @@ Plusieurs actions ont été menées dans ce cadre :
 
 - 8 juillet 2026, 12h - 14h ; Bâtiment Bienvenüe, salle A421.
 
-## Évenements à venir
+## Événements à venir
 
 {% assign sorted_posts = site.posts | sort: "date" %}
 {% for post in sorted_posts %}
