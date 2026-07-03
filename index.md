@@ -58,11 +58,11 @@ Plusieurs actions ont été menées dans ce cadre :
 
 
 
-## Prochaines réunions-déjeuners
+## Prochaine réunion-déjeuner
 
 - 8 juillet 2026, 12h - 14h ; Bâtiment Bienvenüe, salle A421
 
-## Évènements à venir
+## Évenements à venir
 
 {% for post in site.posts %}
 - <span class="post-date">{{ post.date_display }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
